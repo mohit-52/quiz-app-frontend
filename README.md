@@ -51,8 +51,14 @@ Make sure you have the following installed:
 </div>
 
 
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/265c5a76-654d-4954-b247-90a628230ed9" width="300"> 
         <img src="https://github.com/user-attachments/assets/50a23841-5a86-4eb6-8bd1-87c814c0de8f" width="300"> 
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/91dd5a65-6ebf-4801-ad47-b199addd540f" width="300"> 
+        <img src="https://github.com/user-attachments/assets/be5da06f-e1ca-43d0-821e-9fad162cf708" width="300"> 
+          <img src="https://github.com/user-attachments/assets/81c7afeb-d30d-45ba-b2cc-cd5a5b27e1bf" width="300"> 
+
 </div>
