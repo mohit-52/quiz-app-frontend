@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       if (role == "ROLE_ADMIN") {
         return AdminDashboardScreen(jwtToken: token,);
       } else {
-        return UserDashboardScreen();
+        return UserDashboardScreen(token: token,);
       }
     }
     return LoginScreen();

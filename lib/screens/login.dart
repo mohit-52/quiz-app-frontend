@@ -45,7 +45,7 @@ class _LoginScreenState extends State<LoginScreen> {
             context, MaterialPageRoute(builder: (context) => AdminDashboardScreen(jwtToken: token,)));
       } else if (role == 'ROLE_USER') {
         Navigator.pushReplacement(
-            context, MaterialPageRoute(builder: (context) => UserDashboardScreen()));
+            context, MaterialPageRoute(builder: (context) => UserDashboardScreen(token: token,)));
       } else {
         setState(() {
           _errorMessage = "Invalid role received from server.";
